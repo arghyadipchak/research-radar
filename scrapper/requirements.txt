@@ -1,0 +1,6 @@
+selenium
+meilisearch
+python-dotenv
+langdetect
+requests
+pandas
